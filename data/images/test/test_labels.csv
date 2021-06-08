@@ -1,0 +1,16 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+images/test/00000004.jpg,256,256,solar_panel,155.53,178.0,256.0,256.0
+images/test/00000005.jpg,256,256,solar_panel,169.84,235.84,208.44,256.0
+images/test/00000006.jpg,256,256,solar_panel,41.84,235.84,80.44,256.0
+images/test/00000007.jpg,256,256,solar_panel,27.53,178.0,170.39,256.0
+images/test/00000010.jpg,256,256,solar_panel,0.0,97.2,218.58,256.0
+images/test/00000011.jpg,256,256,solar_panel,0.0,25.93,256.0,256.0
+images/test/00000012.jpg,256,256,solar_panel,0.0,120.86,182.22,256.0
+images/test/00000013.jpg,256,256,solar_panel,0.0,190.19,90.58,256.0
+images/test/00000014.jpg,256,256,solar_panel,0.0,0.0,256.0,256.0
+images/test/00000028.jpg,256,256,solar_panel,0.0,0.0,256.0,245.97
+images/test/00000029.jpg,256,256,solar_panel,0.0,35.21,256.0,256.0
+images/test/00000038.jpg,256,256,solar_panel,171.33,179.04,256.0,256.0
+images/test/00000039.jpg,256,256,solar_panel,43.33,179.04,203.66,256.0
+images/test/00000048.jpg,256,256,solar_panel,170.89,244.4,194.87,256.0
+images/test/00000049.jpg,256,256,solar_panel,134.65,116.4,256.0,256.0
