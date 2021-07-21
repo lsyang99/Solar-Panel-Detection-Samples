@@ -1,5 +1,5 @@
 # Solar Panel Detection on Colab.
-This repository encompasses a TensorFlow Lite model trained on colab for solar panel detection. Sample size is 50 with a 15:35 split for testing and training, respectively. 
+This repository demonstrates an example of a TensorFlow Lite model re-trained on colab for solar panel detection. Sample size is 50 with a 15:35 split for testing and training, respectively. 
 
 ### A workflow of re-training deep learning models acquired from TensorFlow Hub.
 
