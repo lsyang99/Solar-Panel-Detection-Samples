@@ -11,7 +11,7 @@ This repository demonstrates an example of a TensorFlow Lite model re-trained on
   - Convert the corresponding XML files to a single CSV file in the folder "train" and "test", respectively.
   - Generate the corresponding TFRecord files named as "train.record" and "test.record".
 5. Re-train the model:
-  - Select a model from TensorFlow Hub.
+  - Select a model from [TensorFlow Hub - Object Detection](https://tfhub.dev/s?module-type=image-object-detection).
   - Manually modify the content of "pipeline.config".
   - Re-train and export.
 6. Perform inference on testing dataset and calculate metrics for validation.
