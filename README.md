@@ -6,15 +6,15 @@ This repository encompasses a TensorFlow Lite model trained on colab for solar p
 1. Create labeling data.
 2. Convert Geotiff files *(with coordinates)* to JPG files(without coordinates).
 3. Generate a XML file *(with XY pixels and bounding boxes)* for each TIFF file from a TXT that locates the position of each point and denotes its corresponding polygon and TIFF file.
-4. Arrange a TensorFlow-used data format
-- Split all JPG files to two folders, "train" and "test".
-- Convert the corresponding XML files to a single CSV file in the folder "train" and "test", respectively.
-- Generate the corresponding TFRecord files named as "train.record" and "test.record".
-5. Re-train the model
-- Select a model from TensorFlow Hub.
-- Manually modify the content of "pipeline.config".
+4. Arrange a TensorFlow-used data format:
+  - Split all JPG files to two folders, "train" and "test".
+  - Convert the corresponding XML files to a single CSV file in the folder "train" and "test", respectively.
+  - Generate the corresponding TFRecord files named as "train.record" and "test.record".
+5. Re-train the model:
+  - Select a model from TensorFlow Hub.
+  - Manually modify the content of "pipeline.config".
 6. Perform inference on testing dataset and calculate metrics for validation.
-7. Ready to be used on real-world data!
+7. Ready to be applied to real-world data!
 
 
 
