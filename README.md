@@ -13,6 +13,7 @@ This repository demonstrates an example of a TensorFlow Lite model re-trained on
 5. Re-train the model:
   - Select a model from TensorFlow Hub.
   - Manually modify the content of "pipeline.config".
+  - Re-train and export.
 6. Perform inference on testing dataset and calculate metrics for validation.
 7. Ready to be applied to real-world data!
 
