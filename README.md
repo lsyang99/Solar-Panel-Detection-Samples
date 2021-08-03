@@ -14,7 +14,7 @@ This repository demonstrates an example of a TensorFlow Lite model re-trained on
   - Select a model from [TensorFlow Hub - Object Detection](https://tfhub.dev/s?module-type=image-object-detection).
   - Manually modify the content of "pipeline.config".
   - Re-train and export.
-6. Perform inference on testing dataset and calculate metrics for validation.
+6. Evaluate model performance by calculating the IoU (intersection over union) metrics of test dataset.
 7. Ready to be applied to real-world data!
 
 
